@@ -1,6 +1,6 @@
 {
-    "name": "ZOMG WEAPON CRATE",
-    "symbol": "ZOMGWC",
-    "description": "Open this crate to obtain an NFT weapon",
+    "name": "ZOMG WEAPON",
+    "symbol": "ZOMGW",
+    "description": "This is a weapon for killing zombies",
     "image": "https://github.com/zombiekillergui/zombiekillersrepo/blob/main/cratesuri/icon.png"
 }
